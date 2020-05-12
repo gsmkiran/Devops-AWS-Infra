@@ -11,4 +11,4 @@
 # Deploy the docker image to the test environment
 # Run the automated browser tests against the application in the test environment
 # Pause for confirmation that the new image can be deployed to the prod environment. Allow for some manual tests to be executed before This step times out after some (configurable amount of) time.
-# Deploy the image to the prod environment
+# Deploy the image to the prod environment.
